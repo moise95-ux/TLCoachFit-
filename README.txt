@@ -1,0 +1,1 @@
+Place ici les vidéos MP4 verticales ou 16:9 de 15 à 20 secondes, une par exercice. Noms attendus : developpe-couche.mp4, developpe-incline.mp4, squat.mp4, tirage-vertical.mp4, elevations-laterales.mp4, curl-biceps.mp4, extension-triceps.mp4, planche.mp4.
